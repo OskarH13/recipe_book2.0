@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Delicious Recipes - Dinner</title>
+</head>
+<body>
+    <header>
+        <h1>Delicious Recipes</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="breakfast.html">Frühstück</a></li>
+                <li><a href="lunch.html">Mittagessen</a></li>
+                <li><a href="dinner.html">Abendessen</a></li>
+            </ul>
+        </nav>
+        <h2>Rezepte zum Dinner</h2>
+    </header>
+
+    <section>
+        <ul>
+            <li>
+                <a href=".html">
+                    <img src=".jpg" width="100">
+                    <p>Beschreibung Dinner</p>
+                </a>
+            </li>
+            <!-- Rezepte -->
+        </ul>
+    </section>
+
+    <footer>
+        <p>Ein Rezept vorschlagen: <a href="mailto:recipes@recipe-book.com">eine Email schicken.</a> </p>
+    </footer>
+
+</body>
+</html>
